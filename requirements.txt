@@ -1,0 +1,12 @@
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+numpy
+scipy
+scikit-learn == 1.0.2
+matplotlib
+pandas
+streamlit
